@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Picker</string>
+
+    <string name="doing_update">loading...;</string>
+
+</resources>

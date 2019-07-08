@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- common -->
+	<color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="trans">#00000000</color>
+    <color name="title_trans">#66000000</color>
+    
+    <!--  -->
+    <color name="top_toast_text">#FFFFFF</color>
+    <color name="title_color_selected">#ff8200</color>
+    <color name="title_color">#757575</color>
+    <color name="title_bar_bg">#cb202d</color>
+    <color name="text_left_list">#ffffff</color>
+    <color name="drawer_divider">#ccffffff</color>
+    <color name="drawer_user_descriptor_color">#808081</color>
+    <color name="drawer_user_name_color">#ffffff</color>
+    <color name="bg_left_list_nor">#21000000</color>
+    <color name="bg_left_list_pre">#26000000</color>
+    <color name="fosdem_purple">#ff8200</color>
+    <color name="card_item_from_text">#a0a0a0</color>
+    <dimen name="card_view_from_size">12.5sp</dimen>
+    <color name="card_item_article_title">#535353</color>
+    
+    <!-- 翻译 -->
+    <color name="language_yellow">#ff8200</color>
+    <color name="language_yellow_pb">#44ff8200</color>
+    <color name="language_item_bg_pre">#f4f4f4</color>
+    <color name="language_font_color1">#535353</color>
+    <color name="language_font_color2">#444444</color>
+    <color name="language_font_color3">#a0a0a0</color>
+    <color name="language_font_color4">#b1b1b1</color>
+    <color name="language_line_color1">#d6d6d6</color>
+    <color name="language_line_color2">#e0e0e0</color>
+    <color name="language_line_color3">#dadada</color>
+    <color name="language_line_color4">#7c7c7c</color>
+    <color name="language_line_color5">#b4b4b4</color>
+    <color name="language_bg_color1">#f4f4f4</color>
+    <color name="language_bg_color0">#e8e8e8</color>
+    <color name="language_bg_color2">#ebebeb</color>
+    <color name="language_bg_color3">#fafafa</color>
+    
+    <!-- homepage -->
+    <color name="big_pic_title_bg">#21000000</color>
+    
+    <!-- 地图 -->
+    <color name="route_activity_bg">#fafafa</color>
+    <color name="map_gray_less">#b1b1b1</color>
+    <color name="map_gray_more">#535353</color>
+    <color name="divider">#dadada</color>
+    <color name="offline_parent_press">#f4f4f4</color>
+    <color name="offline_parent_unpress">#ffffff</color>
+    <color name="offline_child">#fafafa</color>
+    <color name="offline_font">#535353</color>
+    <color name="start_point_mylocation">#1E90FF</color>
+    <color name="start_point_not_mylocation">#333333</color>
+    
+    <color name="setting_item_title">#444444</color>
+    
+    <color name="self_name">#D9FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- 一键规划 -->
+    <color name="btn_color">#ff9141</color>
+    <color name="divider_blue">#b0cfe5</color>
+    <color name="bg_gray">#f5f5f5</color>
+    <color name="bg_calendar_title">#ffeeeeee</color>
+</resources>
